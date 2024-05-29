@@ -1,10 +1,10 @@
 {
   "data":{
       "id":5,
-      "name":"石煜博",
+      "productName":"笔记本电脑",
       "address": "长沙",
-      "age":18,
-      "sex":"男",
+      "type":"联想最新版本",
+      "factory":"富士康",
       "email": "123456789@qq.com"
    } 
 }
